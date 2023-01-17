@@ -3,7 +3,7 @@
 <img src="./img/converter.png" width="400" alt="Movie app Logo"></a></p>
 
 
-## About Movie App
+## About Weight Converter App
 
 Simple Converter app by using Vanilla JS
 
